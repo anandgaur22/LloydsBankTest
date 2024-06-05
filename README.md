@@ -1,16 +1,3 @@
-## File Structure
-
-├── MainActivity.kt
-├── FixtureViewModel.kt
-├── FixtureRepository.kt
-├── FixtureService.kt
-├── models
-│   └── Fixture.kt
-├── ui
-│   └── FixtureScreen.kt
-└── utils
-     └── Extensions.kt
-
 
 ## Project Title
 Football Fixtures App
@@ -46,6 +33,3 @@ Retrofit for network operations, and Kotlin Coroutines for asynchronous operatio
 The app fetches data from the SportMonks API:
 
 - Base URL: `https://api.sportmonks
-
-License
-This project is licensed under the MIT License.

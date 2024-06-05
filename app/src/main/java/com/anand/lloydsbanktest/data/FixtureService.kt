@@ -1,4 +1,4 @@
-package com.anand.lloydsbanktest
+package com.anand.lloydsbanktest.data
 
 import com.anand.lloydsbanktest.models.FixtureResponse
 import retrofit2.Response
